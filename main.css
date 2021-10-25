@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(118, 140, 160);
+  font-family: sans-serif;
+  font-size: 30px;
+}
+.field {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 150px;
+  background-color: orange;
+  border: 5px solid #c0ec22;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.title {
+  text-align: center;
+  font-size: 100px;
+  color: aqua;
+}
